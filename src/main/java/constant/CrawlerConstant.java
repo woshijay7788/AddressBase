@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 public class CrawlerConstant {
 
-    public static final String CRAWLER_STORAGE_FOLDER = "/Users/g2/Downloads/Crawler4j/basic";
+    public static final String CRAWLER_STORAGE_FOLDER = "/Users/chibei/Downloads/Crawler4j/basic";
     public static final Integer POLITENESS_DELAY = 1000;
     public static final Integer MAX_DEPTH_OF_CRAWLING = 7;
     public static final Integer MAX_PAGES_TO_FETCH = 10000;
